@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="mm">mm</string>
+    <string name="cm">cm</string>
+    <string name="dm">dm</string>
+    <string name="m">m</string>
+    <string name="to">To</string>
+    <string name="calculate">Calculate</string>
+    <string name="km">km</string>
+    <string name="result">Result: %s%s</string>
+</resources>
